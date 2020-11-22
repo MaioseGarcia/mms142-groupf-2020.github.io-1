@@ -31,3 +31,4 @@ A: YES
 (Christensen, 1997)
 
 According to Christensen, **_“If an idea fails the litmus tests, then it cannot be shaped into a disruption. It may have promise as a sustaining technology, but in that case we would expect that it could not constitute the basis of a new-growth business for an entrant company.” (1997)_** 
+
